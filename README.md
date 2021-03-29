@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ivanm638
+- 👋 Hi, I’m Ivan! 
 - 👀 I’m interested in data science and how it could help to improve processes in Mining Industry.
 - 🌱 I’m currently learning Data Analysis, with a Udacity' scholarship, through a chilean institution.
 - 💞️ I’m looking to collaborate on whatever you think I can be useful haha
